@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=FreeCodeTheory&color=blueviolet)
 
 </p>
-<div size='20px'> My name is Max. Thank You for taking some time to view my GitHub Profile :smile: 
+<div size='20px'> My name is Max. Thank You for taking some time to check my GitHub Profile :smile: 
 </div>
 
 <br>
