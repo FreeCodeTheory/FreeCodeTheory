@@ -17,7 +17,7 @@
 
 - <img src="https://cdn.shopify.com/s/files/1/0333/1817/4858/files/shopify.png?v=1644505423" alt="shopify emoji" width="20px"> I’m currently working on several Shopify Projects - Themes & Apps Development - as a Shopify Partner
 
-- <img src="https://cdn.shopify.com/s/files/1/0333/1817/4858/files/Sans_titre.png?v=1644590397" alt="node emoji" width="20px"> I’m currently learning back end development with NodeJS & Express 
+- <img src="https://cdn.shopify.com/s/files/1/0333/1817/4858/files/Sans_titre.png?v=1644590397" alt="node emoji" width="20px"> I’m currently perfectionning myself on back end development with NodeJS & Express 
 
 - &#129309; I’m looking to collaborate on every Shopify Projects I work on. Many help can be wanted (UX / UI Design, Security, Back End Development ...)  
 
