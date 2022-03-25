@@ -2,7 +2,7 @@
 <img width="100%" height = "100%" src="https://cdn.shopify.com/s/files/1/0333/1817/4858/files/1608290569477.jpg?v=1644570840" alt="cover" />
 </div>
 
-<h1> Hello There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=FreeCodeTheory&color=blueviolet)
