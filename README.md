@@ -1,24 +1,26 @@
-👋 Hello There!
+👋 Hello There! <br>
 I am Maxime, 6 years experienced Web Developer specialized in Front-End development. I'm working on many Shopify and WebApp development projects and helping companies to create and expand their business on Shopify.
-
+<br>
+<br>
 🗃️ Here are a few examples of projects I can work on :
-
-🛠️ Shopify Themes Customization.
-🏗️ Shopify Themes Creation from scratch.
-🧩 Shopify PlugIn Creation from scratch.
-🚀 Shopify Headless Solution - Hydrogen
-🖥️ Progressive Web App
-🔁 Connection to external services or apps.
-🎨 UX Design.
-🚀 Performance Optimization.
+<br>
+<br>
+🛠️ Shopify Themes Customization.<br>
+🏗️ Shopify Themes Creation from scratch.<br>
+🧩 Shopify PlugIn Creation from scratch.<br>
+🚀 Shopify Headless Solution - Hydrogen.<br>
+🖥️ Progressive Web App.<br>
+🔁 Connection to external services or apps.<br>
+🎨 UX Design.<br>
+🚀 Performance Optimization.<br>
 And many more projects upon request…
-
-Technical Stack :
-JS / ReactJS
-ViteJS / NextJS 13 / Hydrogen
-NodeJS - Express / Mongo DB - Mongoose
-Headless CMS (Strapi - Contentful ...)
-
+<br>
+<br>
+Technical Stack :<br>
+JS / ReactJS<br>
+ViteJS / NextJS 13 / Hydrogen<br>
+NodeJS - Express / Mongo DB - Mongoose<br>
+Headless CMS (Strapi - Contentful ...)<br>
 
 <h2> My GitHub Stats :</h2>
 
